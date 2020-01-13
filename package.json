@@ -25,6 +25,7 @@
     "ember-cli-inject-live-reload": "^1.4.1",
     "ember-cli-qunit": "^4.2.1",
     "ember-cli-release": "^0.2.9",
+    "ember-cli-sass": "^10.0.1",
     "ember-cli-shims": "^1.2.0",
     "ember-cli-sri": "^2.1.0",
     "ember-cli-test-loader": "^2.2.0",
@@ -34,7 +35,8 @@
     "ember-load-initializers": "^1.0.0",
     "ember-resolver": "^4.5.0",
     "ember-source": "~2.18.2",
-    "loader.js": "^4.2.3"
+    "loader.js": "^4.2.3",
+    "sass": "^1.24.4"
   },
   "engines": {
     "node": ">= 8.11.0"
